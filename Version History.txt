@@ -1,0 +1,10 @@
+0.0.1:
+- Basic Skeleton of IPS_Man
+- Test features
+- Live Graph Updates from file
+- Graph Style
+- 4 Unique Pages (including StartPage, PageOne, PageTwo, and GraphPage)
+- Clickable Buttons
+- New Ninja Star Icon
+- Title Bar
+- Graph Navigation Toolbar
